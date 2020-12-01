@@ -12,7 +12,7 @@ Automating the deployment process of Deep Learning models by creating APIs for d
 `git clone https://github.com/asaxena2526/AutoDeeploy.git`<br />
 `cd AutoDeeploy`
 3) Install all the requirements.<br />
-`pip3 install -r requirement.txt`
+`pip3 install -r requirements.txt`
 4) Create an empty repository named models.<br />
 `mkdir models`
 5) Move to the folder images and build the image.<br />
